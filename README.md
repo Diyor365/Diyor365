@@ -16,6 +16,9 @@
 🔹 Fluent in **Uzbek**, **Русский**, and **English**.
 
 ---
+# 🐍 snike 
+
+<a href=#><img src="snike.svg"></a>
 
 ## 🛠️ Tech Stack
 
